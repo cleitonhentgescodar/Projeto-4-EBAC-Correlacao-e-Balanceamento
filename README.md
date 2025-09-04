@@ -35,7 +35,7 @@ O objetivo é compreender as características da base, identificar padrões e pr
 ---
 
 ## 📑 Dataset
-📂 Dataset de clientes, contendo:  
+📂CREDIT_SCORE_PROJETO_PARTE1, contendo:  
 - **Variáveis numéricas**: idade, renda  
 - **Variáveis categóricas**: score de crédito, estado civil, moradia, gênero, escolaridade  
 - **Variável alvo**: score de crédito (desbalanceada inicialmente)  
